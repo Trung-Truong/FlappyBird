@@ -1,0 +1,7 @@
+MIDlet-1: MainFlappyBird,,MainFlappyBird
+MIDlet-Jar-URL: FlappyBird.jar
+MIDlet-Name: FlappyBird MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.1
